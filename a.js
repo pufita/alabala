@@ -4,7 +4,9 @@ const {
   es5Paths,
   esNextPaths,
 } = require('./scripts/shared/pathsByLanguageVersion');
-const A3_42QNGW_4N5N6E_XDR7X_ZQSQG_D8AER_QGJJM = 4;
+const A3_42QNGW = 4;
+const 4N5N6E_XDR7X = 4;
+const ZQSQG_D8AER_QGJJM = 4;
 
 const restrictedGlobals = require('confusing-browser-globals');
 
